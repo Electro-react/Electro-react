@@ -1,10 +1,10 @@
 <br/>
-<h1 color="white>
+<h1 color="white">
 <p align="center">
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/yogesh-rana-992a25166/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="40" width="40" /></a>&nbsp; Electro React <a href="https://www.instagram.com/electro_react/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="apoorvtyagi" height="40" width="40" /></a></h1>
 </p>
-<h1 align="center">
+<h1 style="align:center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there👋!;This is my github readme;to+discrible my self; and my work here!&font=Fira%20Code&center=true&width=380&height=50">
 </h1>
 
