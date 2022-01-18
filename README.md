@@ -1,5 +1,5 @@
 <br/>
-<h1>
+<h1 color="white>
 <p align="center">
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/yogesh-rana-992a25166/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="40" width="40" /></a>&nbsp; Electro React <a href="https://www.instagram.com/electro_react/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="apoorvtyagi" height="40" width="40" /></a></h1>
