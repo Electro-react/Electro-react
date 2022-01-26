@@ -6,7 +6,7 @@
 </p>
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there+%F0%9F%91%8B!;This+is+my+GitHub+readme+to+describe;+myself+and+my+work+here!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Hi+there+%F0%9F%91%8B!;This+is+my+GitHub+readme+to+describe;+myself+and+my+work+here!)](https://git.io/typing-svg)
 
 <div align="center">
 
