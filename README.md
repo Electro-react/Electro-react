@@ -4,9 +4,10 @@
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/yogesh-rana-992a25166/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="40" width="40" /></a>&nbsp; Electro React <a href="https://www.instagram.com/electro_react/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="apoorvtyagi" height="40" width="40" /></a></h1>
 </p>
-<h1 align="center">
+
+
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there+%F0%9F%91%8B!;This+is+my+GitHub+readme+to+describe;+myself+and+my+work+here!)](https://git.io/typing-svg)
-</h1>
+
 <div align="center">
 
 
