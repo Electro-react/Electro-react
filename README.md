@@ -5,12 +5,9 @@
 <a href="https://www.linkedin.com/in/yogesh-rana-992a25166/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="40" width="40" /></a>&nbsp; Electro React <a href="https://www.instagram.com/electro_react/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="apoorvtyagi" height="40" width="40" /></a></h1>
 </p>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Hi+there+%F0%9F%91%8B!;This+is+my+GitHub+readme+to+describe;+myself+and+my+work+here!)](https://git.io/typing-svg)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1080&lines=Hi+there+%F0%9F%91%8B!;I+am+Yogesh;This+is+my+GitHub+profile+to+describe;+myself+and+my+work+here!)
+ ---
 <div align="center">
-
-
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
